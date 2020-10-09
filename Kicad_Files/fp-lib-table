@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SSD1306)(type KiCad)(uri "/media/ashish/New Volume/Ashish_Pardeshi/Software/KiCAD_Lib/KiCad-SSD1306-128x64-master/KiCad-SSD1306-128x64-master/library/SSD1306.pretty")(options "")(descr ""))
+)
