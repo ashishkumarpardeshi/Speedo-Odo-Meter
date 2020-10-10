@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name speedo_odo_meter)(type Legacy)(uri ${KIPRJMOD}/speedo_odo_meter.lib)(options "")(descr ""))
+  (lib (name speedo_odo_meter-rescue)(type Legacy)(uri ${KIPRJMOD}/speedo_odo_meter-rescue.lib)(options "")(descr ""))
+  (lib (name SSD1306-128x64_OLED)(type Legacy)(uri ${KIPRJMOD}/Libraries/SSD1306-128x64_OLED.lib)(options "")(descr ""))
+)
