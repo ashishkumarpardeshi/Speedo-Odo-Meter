@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name speedo-odo-meter)(type KiCad)(uri ${KIPRJMOD}/speedo-odo-meter.pretty)(options "")(descr ""))
+)
